@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bhoomika kaushik</h1>
 <h3 align="center">A passionate frontend developer from Indore, India</h3>
 
-- 📫 How to reach me *bhoomikakaushik11@gmail.com*
+- 📫 How to reach me
+     email - *bhoomikakaushik11@gmail.com*
+     linkedIn - http://www.linkedin.com/in/bhoomika-kaushik
 
 - ⚡*Chess player*
 
